@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Challenge.IntegraMedia.Model\Challenge.IntegraMedia.Model.csproj" />
+    <ProjectReference Include="..\Challenge.IntegraMedia.Persistence\Challenge.IntegraMedia.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
